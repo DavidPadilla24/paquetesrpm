@@ -10,4 +10,4 @@
 
 ## 3. Repositorios
 
-### Ubicación de los archivos de repositorios
+### [Ubicación de los archivos de repositorios](repositorios.md)
