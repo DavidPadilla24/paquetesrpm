@@ -6,7 +6,7 @@
 
 ## 2. Distribución Rocky Linux
 
-### Características de esta distribución 
+### [Características de esta distribución](distribucion.md) 
 
 ## 3. Repositorios
 
