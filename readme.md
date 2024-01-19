@@ -3,3 +3,11 @@
 ## 1. Introducción
 
 ### [¿Qué son los paquetes RPM?](queesrpm.md)
+
+## 2. Distribución Rocky Linux
+
+### Características de esta distribución 
+
+## 3. Repositorios
+
+### Ubicación de los archivos de repositorios
