@@ -2,4 +2,4 @@
 
 ## 1. Introducción
 
-### ¿Qué son los paquetes RPM?
+### ¿Qué son los paquetes RPM?[queesrpm.md]
