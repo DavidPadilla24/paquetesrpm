@@ -1,8 +1,8 @@
 # Documentación sobre Paquetes RPM y Distribución Rocky Linux
 
-## 1. Introducción
+### 1. Introducción
 
-### [¿Qué son los paquetes RPM?](queesrpm.md)
+#### [¿Qué son los paquetes RPM?](queesrpm.md)
 
 ## 2. Distribución Rocky Linux
 
