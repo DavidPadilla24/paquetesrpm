@@ -1,5 +1,5 @@
 # Documentación sobre Paquetes RPM y Distribución Rocky Linux
-
+![rocky.png](rocky.png)
 
 ## 1. Introducción
 
