@@ -14,7 +14,7 @@
 ### [Ubicación de los archivos de repositorios](repositorios.md)
 
 ## 4. Caso practico
-
+###[Comandos Rocky Linux](https://www.youtube.com/watch?v=3_ygx3PLo_o&t=48)
 
 ## 5. Webgrafía
 ### [Webs](webgrafia.md)
