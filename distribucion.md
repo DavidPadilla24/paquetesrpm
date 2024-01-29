@@ -4,3 +4,6 @@
 
 2-`Licencia Gratuita y Código Abierto`: Al igual que CentOS, Rocky Linux es gratuito y de código abierto. Los usuarios pueden descargar, instalar y utilizar Rocky Linux sin incurrir en costos de licencia.
 
+3-`Comunidad Activa`: Rocky Linux ha generado una comunidad activa de usuarios, desarrolladores y colaboradores que contribuyen al desarrollo y soporte continuo de la distribución.
+
+4-`Gestión de Paquetes basada en YUM`: Rocky Linux utiliza el sistema de gestión de paquetes YUM (Yellowdog Updater, Modified) para facilitar la instalación, actualización y gestión de software en el sistema.
