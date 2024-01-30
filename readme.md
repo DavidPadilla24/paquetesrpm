@@ -1,19 +1,19 @@
 # Documentación sobre Paquetes RPM y Distribución Rocky Linux
 ![rocky.png](rocky.png)
 
-## 1. Introducción
+## 1.- Introducción
 
 ### [¿Qué son los paquetes RPM?](queesrpm.md)
 
-## 2. Distribución Rocky Linux
+## 2.- Distribución Rocky Linux
 
 ### [Características de esta distribución](distribucion.md) 
 
-## 3. Repositorios
+## 3.- Repositorios
 
 ### [Ubicación de los archivos de repositorios](repositorios.md)
 
-4.- Caso práctico.
+## 4.- Caso práctico.
 
   - Actualizar el sistema
 
@@ -24,15 +24,20 @@
   - Comprobar que se ha instalado.
 
   - Desinstalar el paquete.
-    - [Video Comandos Rocky Linux](https://www.youtube.com/watch?v=3_ygx3PLo_o&t=48)
+    
+ [Video Comandos Rocky Linux](https://www.youtube.com/watch?v=3_ygx3PLo_o&t=48)
 
 
 
 (https://www.youtube.com/watch?v=3_ygx3PLo_o&t=48)
 
-## 5. Webgrafía
+## 5.- Webgrafía
 ### [Webs](webgrafia.md)
 
+## 6.- Autores
+## Autores
+
+- `David Alvarez Padilla` (https://github.com/DavidPadilla24)
 
 
 
