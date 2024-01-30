@@ -3,7 +3,7 @@
 
 ## 1.- Introducción
 
-### - [¿Qué son los paquetes RPM?](queesrpm.md)
+### [¿Qué son los paquetes RPM?](queesrpm.md)
 
 ## 2.- Distribución Rocky Linux
 
@@ -11,7 +11,7 @@
 
 ## 3.- Repositorios
 
-### - [Ubicación de los archivos de repositorios](repositorios.md)
+###  [Ubicación de los archivos de repositorios](repositorios.md)
 
 ## 4.- Caso práctico.
 
@@ -28,7 +28,7 @@
 ### [Video Comandos Rocky Linux](https://www.youtube.com/watch?v=3_ygx3PLo_o&t=49s)
 
 ## 5.- Webgrafía
-### - [Referencias](webgrafia.md)
+###  [Referencias](webgrafia.md)
 
 ## 6.- Autores
 
