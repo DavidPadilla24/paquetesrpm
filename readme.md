@@ -25,7 +25,7 @@
 
   - Desinstalar el paquete.
     
- [Video Comandos Rocky Linux](https://www.youtube.com/watch?v=3_ygx3PLo_o&t=48)
+### [Video Comandos Rocky Linux]
 
 
 
@@ -35,9 +35,8 @@
 ### [Webs](webgrafia.md)
 
 ## 6.- Autores
-## Autores
 
-- `David Alvarez Padilla` (https://github.com/DavidPadilla24)
+### - `David Alvarez Padilla` (https://github.com/DavidPadilla24)
 
 
 
