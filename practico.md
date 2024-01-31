@@ -7,4 +7,4 @@
 - Buscar `$ dnf search 'Paquete'`
 - Averiguar si esta instalado `$ dnf info 'Paquete'`
 - Instalar `$ dnf install 'Paquete'`
-- Desistalar `$ dnf remove 'Paquete'`
+- Desinstalar `$ dnf remove 'Paquete'`
