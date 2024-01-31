@@ -24,8 +24,7 @@
   - Comprobar que se ha instalado.
 
   - Desinstalar el paquete.
-    
-### [Video Comandos Rocky Linux](https://www.youtube.com/watch?v=3_ygx3PLo_o&t=49s)
+    - [Casos practicos](practico.md)
 
 ## 5.- Webgrafía
 ###  [Referencias](webgrafia.md)
