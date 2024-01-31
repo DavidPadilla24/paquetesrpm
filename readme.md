@@ -24,7 +24,7 @@
   - Comprobar que se ha instalado.
 
   - Desinstalar el paquete.
-    - [Casos practicos](practico.md)
+    - [Caso practico](practico.md)
 
 ## 5.- Webgrafía
 ###  [Referencias](webgrafia.md)
